@@ -1,0 +1,28 @@
+Techs to use:
+- C#
+- HTML5
+- CSS3
+- JavaScript
+- ASP.Net
+- ASP.Net Web Api
+- ASP.Net MVC
+- ASP.NET AUTH
+- Angular (2)
+- TypeScript
+- NodeJS
+- jQuery
+- Ruby
+- Ruby on Rails
+- SQL
+- Python
+- PHP
+- Firebase
+- MongoDB
+- Meteor
+- Elastic Search
+- EmberJS
+
+Review:
+- Redis
+- ReactJS
+
